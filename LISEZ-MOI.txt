@@ -1,11 +1,5 @@
-TEST 3 RECETTES POUR SAMSUNG FOOD
-
-1. Décompressez le ZIP.
-2. Créez un dépôt GitHub public nommé mes-recettes.
-3. Envoyez TOUS les fichiers de ce dossier à la racine du dépôt (pas le dossier lui-même).
-4. Dans Settings > Pages : Deploy from a branch, main, /(root), Save.
-5. Ouvrez https://VOTRE-PSEUDO.github.io/mes-recettes/
-6. Dans Samsung Food, importez les liens terminant par papas-con-chorizo.html, poulet-teriyaki.html et double-smash-burger.html.
-7. Vérifiez les champs reconnus : Samsung Food peut ne pas importer toutes les étapes, images ou informations nutritionnelles.
-
-Les images sont des illustrations originales générées. Prix et macros estimatifs. Les pages sont publiques sur GitHub Pages.
+Pack complet : 30 pages HTML, 30 illustrations (3 tests + 10 dessins générés + 17 illustrations vectorielles), index et CSS.
+Sur GitHub : Add file > Upload files, envoyer les fichiers à la racine, Commit changes.
+Les fichiers déjà présents peuvent être remplacés. Les liens doivent être testés dans Samsung Food.
+Certaines illustrations du dernier lot sont des dessins vectoriels simplifiés, et non des images détaillées.
+Les données nutritionnelles sont des estimations à vérifier.
