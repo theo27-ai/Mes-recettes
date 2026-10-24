@@ -3,3 +3,5 @@ Sur GitHub : Add file > Upload files, envoyer les fichiers à la racine, Commit 
 Les fichiers déjà présents peuvent être remplacés. Les liens doivent être testés dans Samsung Food.
 Certaines illustrations du dernier lot sont des dessins vectoriels simplifiés, et non des images détaillées.
 Les données nutritionnelles sont des estimations à vérifier.
+
+Mise a jour illustrations : les 17 anciennes vignettes SVG ont ete remplacees par des visuels dessines en WebP. Certaines images sont approximatives, notamment gnocchis, cordon-bleu, club sandwich, poelee paysanne et one-pan chorizo.
